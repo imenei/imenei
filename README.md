@@ -9,7 +9,7 @@
 <br>
 
 <!-- ✅ Texte + GIF côte à côte, sans lignes visibles -->
-<table align="center" border="0" cellspacing="0" cellpadding="10" width="100%">
+<table align="center" border="0" cellspacing="0" cellpadding="10" >
   <tr>
     <td align="left" valign="middle" width="50%">
       <p style="font-size:17px;">
