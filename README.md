@@ -100,6 +100,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/imenei/imenei/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
 ###
