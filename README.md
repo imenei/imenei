@@ -21,7 +21,7 @@
   
       </td>
       <td width="40%" align="center" valign="top">
-        <img src="./Tech Hearts GIF by Persona.gif" height="160" alt="Tech innovation animation" />
+        <img src="./Tech Hearts GIF by Persona" height="160" alt="Tech innovation animation" />
       </td>
     </tr>
   </table>
