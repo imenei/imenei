@@ -6,12 +6,17 @@
   
 </div>
 
-<p align="center">
-  Passionate about building intelligent systems that solve real-world problems<br>
-  I love experimenting with data, developing smart models, and constantly learning new technologies every day!
-</p>
+<div align="center">
+  
+  ### 💫 **Transforming Ideas into Intelligent Solutions**
+  
+  **Driven by innovation and powered by cutting-edge technology,** I specialize in creating systems that bridge the gap between complex data and real-world applications. My passion lies in developing intelligent models and scalable architectures that solve meaningful challenges while continuously evolving with the ever-changing tech landscape.
+  
+  > *"Building the future, one algorithm at a time"*
 
+</div>
 
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -83,21 +88,23 @@
 </div>
 
 <br>
-## 📫 Let's Connect
 
-<div align="left">
+## 🔗 **Let's Connect**
+
+<div align="center">
   <a href="https://www.linkedin.com/in/imene-belmadoui-81b117248/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" height="40" />
   </a>
   <a href="mailto:imene.belmadoui@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/badge/Collaborate-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&label=Email" height="40" />
   </a>
   <a href="https://github.com/imenei" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+    <img src="https://img.shields.io/badge/Explore_Code-181717?style=for-the-badge&logo=github&logoColor=white&label=GitHub" height="40" />
   </a>
 </div>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
+
 ###
