@@ -6,8 +6,8 @@
 
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="width: 65%; text-align: left;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <div style="flex: 1; text-align: left;">
     <h3>🚀 <strong>Bridging Innovation with Intelligent Technology</strong></h3>
     Building intelligent systems that solve real problems.<br>
     I bridge machine learning with modern web development<br>
@@ -15,7 +15,7 @@
     <br><br>
     <em>"Engineering the future through code and creativity"</em>
   </div>
-  <div style="text-align: center;">
+  <div>
     <img src="./Tech Hearts GIF by Persona.gif" height="250" alt="Coding animation" />
   </div>
 </div>
