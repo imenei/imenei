@@ -21,8 +21,7 @@
   
       </td>
       <td width="35%" align="center" valign="top">
-        <img src="https://media.giphy.com/media/3s0aYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Coding girl animation" />
-      </td>
+<img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />      </td>
     </tr>
   </table>
 </div>
