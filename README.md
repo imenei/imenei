@@ -19,7 +19,7 @@
       </p>
       
     </td>
-    <td align="center" valign="middle" width="60%">
+    <td align="center" valign="middle" >
       <img src="./Tech Hearts GIF by Persona.gif" height="280" alt="Coding animation" />
     </td>
   </tr>
