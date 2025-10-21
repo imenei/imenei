@@ -12,15 +12,13 @@
   <table>
     <tr>
       <td width="65%" valign="top">
+        ### 🚀 **Bridging Innovation with Intelligent Technology**
         
-  ### 🚀 **Bridging Innovation with Intelligent Technology**
-  
-  Building intelligent systems that solve real problems. 
-  I bridge machine learning with modern web development 
-  to create scalable, impactful solutions.
+        Building intelligent systems that solve real problems. 
+        I bridge machine learning with modern web development 
+        to create scalable, impactful solutions.
 
-  > *"Engineering the future through code and creativity"*
-  
+        > *"Engineering the future through code and creativity"*
       </td>
       <td width="35%" align="center" valign="top">
         <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />
