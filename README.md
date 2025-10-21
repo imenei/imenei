@@ -1,26 +1,37 @@
 <h1 align="center">👋 Hello, I'm Imene</h1>
 
 <div align="center">
-  
+
+  <!-- Typing Animation -->
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Engineer;Creative+Problem+Solver&center=true&color=FF6B6B&size=25)
   
 </div>
 
 <br>
 
+<!-- Section texte + GIF côte à côte -->
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
-    <div style="flex: 1; max-width: 500px;">
-      ### 💫 **Where Code Meets Intelligence**
-      
-      **Building intelligent solutions that bridge AI innovation with real-world applications.** Passionate about creating systems that learn, adapt, and transform industries. From elegant frontends to powerful machine learning models, I craft technology that makes a difference.
-      
-      > *"Transforming complexity into elegant solutions"*
-    </div>
-    <div>
-      <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Tech innovation animation" />
-    </div>
-  </div>
+  <table>
+    <tr>
+      <!-- Colonne texte -->
+      <td width="55%" valign="top" align="left">
+
+  ### 💫 **Where Code Meets Intelligence**
+  
+  **Building intelligent solutions that bridge AI innovation with real-world applications.**  
+  Passionate about creating systems that learn, adapt, and transform industries.  
+  From elegant frontends to powerful machine learning models, I craft technology that makes a difference.
+  
+  > *"Transforming complexity into elegant solutions"*
+
+      </td>
+
+      <!-- Colonne GIF -->
+      <td width="45%" align="center">
+        <img src="https://media3.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" height="200" alt="Coding animation" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
