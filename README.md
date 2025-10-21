@@ -121,7 +121,7 @@
   <img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
 </div>
 
-<p align="center" style="color:#E0E0E0; font-size:16px; font-style:italic; margin-top:15px;">
-  🌍 Always open to new ideas, collaborations, and challenges that push the limits of what technology can do.
-</p>
+<h2 align="center" style="color:#4A90E2; font-weight:600; letter-spacing:1px; margin-top:25px;">
+  🌍 Always open to new ideas and challenges<br>that redefine the limits of technology.
+</h2>
 
