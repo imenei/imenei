@@ -10,7 +10,6 @@
 
 <div align="center">
   <table>
-    <tr>
       <td width="65%" valign="top">
         
   ### 🚀 **Bridging Innovation with Intelligent Technology**
@@ -19,11 +18,7 @@
   
   > *"Engineering the future through code and creativity"*
   
-      </td>
-      <td width="35%" align="center" valign="top">
         <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />
-      </td>
-    </tr>
   </table>
 </div>
 
