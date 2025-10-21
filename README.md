@@ -21,7 +21,7 @@
   
       </td>
       <td width="35%" align="center">
-        <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Tech animation" />
+<img src="https://media3.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Coding girl animation" />
       </td>
     </tr>
   </table>
