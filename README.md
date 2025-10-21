@@ -6,8 +6,7 @@
 </div>
 
 <div align="center">
-  ![Tech GIF](https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif)
-</div>
+<img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Tech animation" /></div>
 <div align="center">
   
   ### 🚀 **Bridging Innovation with Intelligent Technology**
