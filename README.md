@@ -9,14 +9,20 @@
 <br>
 
 <div align="center">
-  <p style="font-size:17px; line-height:1.6; color:#E0E0E0;">
-    As a <strong style="color:#4A90E2">Full Stack Developer</strong> and <strong style="color#FF6B6B">AI enthusiast</strong>, I bridge the gap between<br>
-    cutting-edge machine learning and modern web development.<br>
-    I specialize in creating <strong style="color:#50E3C2">scalable applications</strong> that not only work beautifully<br>
-    but also <strong style="color:#F5A623">think intelligently</strong>.
-  </p>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
+    <div style="flex: 1; max-width: 500px;">
+      <p style="font-size:17px; line-height:1.6; color:#E0E0E0; text-align:center;">
+        As a <strong style="color:#4A90E2">Full Stack Developer</strong> and <strong style="color:#FF6B6B">AI enthusiast</strong>, I bridge the gap between<br>
+        cutting-edge machine learning and modern web development.<br>
+        I specialize in creating <strong style="color:#50E3C2">scalable applications</strong> that not only work beautifully<br>
+        but also <strong style="color:#F5A623">think intelligently</strong>.
+      </p>
+    </div>
+    <div style="flex-shrink: 0;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5qM2V6c2R3ZzF1a3A3bWU1eGJ0Z3JodmRjbGZ6c2JmY2N4eGZ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPEqDGUULpEU0aQ/giphy.gif" height="150" alt="Tech Hearts GIF" />
+    </div>
+  </div>
 </div>
-
 
 <br>
 
