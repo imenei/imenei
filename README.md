@@ -7,27 +7,22 @@
 </div>
 
 <br>
-
 <table border="0" cellspacing="0" cellpadding="10" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td width="50%" valign="middle" align="center" style="border: none;">
-      <p style="font-size:17px;">
-        Building intelligent systems that solve real problems.<br>
-        I bridge machine learning with modern web development<br>
-        to create scalable, impactful solutions.
-      </p>
+<td width="30%" valign="top">
 
-      <p style="font-size:15px;"><em>"Engineering the future through code and creativity"</em></p>
-    </td>
 
-    <td align="center" valign="middle" style="border: none;">
-      <img src="./Tech Hearts GIF by Persona.gif" height="260" alt="Coding animation" />
-    </td>
-  </tr>
+Building intelligent systems that solve real problems.<br>
+I bridge machine learning with modern web development<br>
+to create scalable, impactful solutions.
+
+
+</td>
+<td align="center" valign="middle">
+  <img src="./Tech Hearts GIF by Persona.gif" height="280" alt="Coding animation" />
+</td>
+</tr>
 </table>
-
-
-
 
 
 <br>
