@@ -8,22 +8,14 @@
 
 <br>
 
-<!-- ✅ Texte + GIF côte à côte, sans lignes visibles -->
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td align="left" valign="middle" width="50%">
+
       <p style="font-size:17px;">
-        Building intelligent systems that solve real problems.<br>
-        I bridge machine learning with modern web development<br>
+        Building intelligent systems that solve real problems.
+        I bridge machine learning with modern web development
         to create scalable, impactful solutions.
       </p>
       
-    </td>
-    <td align="center" valign="middle" width="50%">
-      <img src="./Tech Hearts GIF by Persona.gif" height="280" alt="Coding animation" />
-    </td>
-  </tr>
-</table>
+    
 
 <br>
 
