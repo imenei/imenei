@@ -3,13 +3,11 @@
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast&center=true&color=FF6B6B&size=25)
-  
 </div>
 
 <div align="center">
   <!-- Essai avec différentes méthodes -->
-  <img src="https://i.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Tech innovation animation" />
-</div>
+![Tech GIF](https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif)</div>
 
 <div align="center">
   
