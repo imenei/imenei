@@ -28,7 +28,7 @@
 
       <!-- Colonne GIF -->
       <td width="45%" align="center">
-        <img src="https://media3.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" height="200" alt="Coding animation" />
+<img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />    
       </td>
     </tr>
   </table>
