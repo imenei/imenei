@@ -10,7 +10,7 @@
 
 <table style="border:none;">
 <tr>
-<td width="85%" valign="top">
+<td width="30%" valign="top">
 
 
 Building intelligent systems that solve real problems.<br>
