@@ -6,9 +6,8 @@
 </div>
 
 <div align="center">
-  <!-- Essai avec différentes méthodes -->
-![Tech GIF](https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif)</div>
-
+  ![Tech GIF](https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif)
+</div>
 <div align="center">
   
   ### 🚀 **Bridging Innovation with Intelligent Technology**
