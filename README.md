@@ -19,8 +19,10 @@
   
   > *"Transforming complexity into elegant solutions"*
   
-     
-<img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />      </td>
+      </td>
+      <td width="40%" align="center" valign="top">
+        <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Tech innovation animation" />
+      </td>
     </tr>
   </table>
 </div>
