@@ -7,7 +7,8 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBqdzl6NHp3MzFwajJlMjg0d3Rkd3NqMXRyOGNoNW1pb3VrcGdzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Tech innovation animation" />
+  <!-- Essai avec différentes méthodes -->
+  <img src="https://i.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Tech innovation animation" />
 </div>
 
 <div align="center">
