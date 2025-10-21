@@ -7,16 +7,16 @@
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBqdzl6NHp3MzFwajJlMjg0d3Rkd3NqMXRyOGNoNW1pb3VrcGdzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBqdzl6NHp3MzFwajJlMjg0d3Rkd3NqMXRyOGNoNW1pb3VrcGdzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Tech innovation animation" />
 </div>
 
 <div align="center">
   
-  ### 💫 **Transforming Ideas into Intelligent Solutions**
+  ### 🚀 **Bridging Innovation with Intelligent Technology**
   
-  **Driven by innovation and powered by cutting-edge technology,** I specialize in creating systems that bridge the gap between complex data and real-world applications. My passion lies in developing intelligent models and scalable architectures that solve meaningful challenges while continuously evolving with the ever-changing tech landscape.
+  **Crafting next-generation solutions at the intersection of AI and full-stack development.** I thrive on transforming complex challenges into elegant, scalable systems that make a tangible impact. With a relentless curiosity for emerging technologies and a passion for data-driven innovation, I'm committed to pushing the boundaries of what's possible in the digital landscape.
   
-  > *"Building the future, one algorithm at a time"*
+  > *"Engineering the future through code and creativity"*
 
 </div>
 
