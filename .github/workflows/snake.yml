@@ -4,10 +4,14 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -20,10 +24,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push generated SVG
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "Update snake animation" || exit 0
-          git push
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          keep_files: false
+          force_orphan: true
