@@ -9,22 +9,18 @@
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%" valign="top">
-        
-  ### 💫 **Where Code Meets Intelligence**
-  
-  **Building intelligent solutions that bridge AI innovation with real-world applications.** Passionate about creating systems that learn, adapt, and transform industries. From elegant frontends to powerful machine learning models, I craft technology that makes a difference.
-  
-  > *"Transforming complexity into elegant solutions"*
-  
-      </td>
-      <td width="40%" align="center" valign="top">
-        <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Tech innovation animation" />
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
+    <div style="flex: 1; max-width: 500px;">
+      ### 💫 **Where Code Meets Intelligence**
+      
+      **Building intelligent solutions that bridge AI innovation with real-world applications.** Passionate about creating systems that learn, adapt, and transform industries. From elegant frontends to powerful machine learning models, I craft technology that makes a difference.
+      
+      > *"Transforming complexity into elegant solutions"*
+    </div>
+    <div>
+      <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Tech innovation animation" />
+    </div>
+  </div>
 </div>
 
 <br>
