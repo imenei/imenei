@@ -11,7 +11,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="65%">
+      <td width="65%" valign="top">
         
   ### 🚀 **Bridging Innovation with Intelligent Technology**
   
@@ -20,8 +20,9 @@
   > *"Engineering the future through code and creativity"*
   
       </td>
-      
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBqdzl6NHp3MzFwajJlMjg0d3Rkd3NqMXRyOGNoNW1pb3VrcGdzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Coding girl animation" />
+      <td width="35%" align="center" valign="top">
+        <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Coding girl animation" />
+      </td>
     </tr>
   </table>
 </div>
