@@ -1,24 +1,35 @@
-<h1 align="center">👋 Hello, I'm Imene</h1>
+voici je enlver les ligne de tableau :<h1 align="center">👋 Hello, I'm Imene</h1>
 
 <div align="center">
+  
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast&center=true&color=FF6B6B&size=25)
+  
 </div>
 
 <br>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <div style="flex: 1; text-align: left;">
-    <h3>🚀 <strong>Bridging Innovation with Intelligent Technology</strong></h3>
-    Building intelligent systems that solve real problems.<br>
-    I bridge machine learning with modern web development<br>
-    to create scalable, impactful solutions.
-    <br><br>
-    <em>"Engineering the future through code and creativity"</em>
-  </div>
-  <div>
-    <img src="./Tech Hearts GIF by Persona.gif" height="250" alt="Coding animation" />
-  </div>
-</div>
+<table style="border:none;">
+<tr>
+<td width="65%" valign="top">
+
+<h3>🚀 <strong>Bridging Innovation with Intelligent Technology</strong></h3>
+
+Building intelligent systems that solve real problems.<br>
+I bridge machine learning with modern web development<br>
+to create scalable, impactful solutions.
+
+<br><br>
+<em>"Engineering the future through code and creativity"</em>
+
+</td>
+<td align="center" valign="middle">
+  <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />
+</td>
+</tr>
+</table>
+
+
+
 
 
 <br>
