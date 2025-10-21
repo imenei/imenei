@@ -122,6 +122,6 @@
 </div>
 
 <h2 align="center" style="color:#4A90E2; font-weight:600; letter-spacing:1px; margin-top:25px;">
-  🌍 Always open to new ideas and challenges<br>that redefine the limits of technology.
+   Always open to new ideas and challenges<br>that redefine the limits of technology ✨
 </h2>
 
