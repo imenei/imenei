@@ -10,15 +10,22 @@
 
 <div align="center">
   <table>
+    <tr>
       <td width="65%" valign="top">
         
   ### 🚀 **Bridging Innovation with Intelligent Technology**
   
-  **Crafting next-generation solutions at the intersection of AI and full-stack development.** I thrive on transforming complex challenges into elegant, scalable systems that make a tangible impact. With a relentless curiosity for emerging technologies and a passion for data-driven innovation, I'm committed to pushing the boundaries of what's possible in the digital landscape.
-  
+  Building intelligent systems that solve real problems. 
+  I bridge machine learning with modern web development 
+  to create scalable, impactful solutions.
+
   > *"Engineering the future through code and creativity"*
   
-<img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />      </td>        </tr>
+      </td>
+      <td width="35%" align="center" valign="top">
+        <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />
+      </td>
+    </tr>
   </table>
 </div>
 
