@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <p style="font-size:17px;">
+  <p style="font-size:25px;">
     Building intelligent systems that solve real problems.<br>
     I bridge machine learning with modern web development<br>
     to create scalable, impactful solutions.
