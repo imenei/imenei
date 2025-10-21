@@ -9,7 +9,7 @@
 <br>
 
 <!-- ✅ Texte + GIF côte à côte, sans lignes visibles -->
-<table align="center" border="0" cellspacing="0" cellpadding="10">
+<table align="center" border="0" cellspacing="0" cellpadding="10" width="100%">
   <tr>
     <td align="left" valign="middle" width="50%">
       <p style="font-size:17px;">
@@ -17,11 +17,9 @@
         I bridge machine learning with modern web development<br>
         to create scalable, impactful solutions.
       </p>
-      <p style="font-size:15px;">
-        <em>"Engineering the future through code and creativity"</em>
-      </p>
+      
     </td>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="middle" width="60%">
       <img src="./Tech Hearts GIF by Persona.gif" height="280" alt="Coding animation" />
     </td>
   </tr>
