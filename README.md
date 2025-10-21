@@ -1,4 +1,4 @@
-voici je enlver les ligne de tableau :<h1 align="center">👋 Hello, I'm Imene</h1>
+<h1 align="center">👋 Hello, I'm Imene</h1>
 
 <div align="center">
   
@@ -18,12 +18,10 @@ Building intelligent systems that solve real problems.<br>
 I bridge machine learning with modern web development<br>
 to create scalable, impactful solutions.
 
-<br><br>
-<em>"Engineering the future through code and creativity"</em>
 
 </td>
 <td align="center" valign="middle">
-  <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />
+  <img src="./Tech Hearts GIF by Persona.gif" height="280" alt="Coding animation" />
 </td>
 </tr>
 </table>
