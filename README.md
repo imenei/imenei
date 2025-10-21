@@ -12,12 +12,12 @@
 <img align="right" src="./Tech Hearts GIF by Persona.gif" height="150" alt="Tech Hearts GIF by Persona" />  
  <p style="font-size:17px; line-height:1.7; color:#E0E0E0; margin: 0;">
    <strong style="color:#4A90E2;">As a Full Stack Developer and AI Enthusiast</strong>, 
-  I build intelligent, data-driven solutions that connect innovation with real-world impact.<br><br>
+  I build intelligent, data-driven solutions that connect innovation with real-world impact.<br>
 
   I love transforming complex ideas into elegant, scalable applications — systems that not only 
   <strong style="color:#50E3C2;">perform beautifully</strong> but also 
-  <strong style="color:#F5A623;">learn and adapt intelligently</strong>.<br><br>
-
+  <strong style="color:#F5A623;">learn and adapt intelligently</strong>.<br>
+  With a strong focus on quality and innovation, I strive to craft solutions that are efficient, maintainable, and meaningful to real users.
  
   
 </p>
