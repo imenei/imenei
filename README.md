@@ -10,9 +10,8 @@
 
 <table style="border:none;">
 <tr>
-<td width="65%" valign="top">
+<td width="85%" valign="top">
 
-<h3>🚀 <strong>Bridging Innovation with Intelligent Technology</strong></h3>
 
 Building intelligent systems that solve real problems.<br>
 I bridge machine learning with modern web development<br>
