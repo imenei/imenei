@@ -9,7 +9,7 @@
 <br>
 <table border="0" cellspacing="0" cellpadding="10" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-<td width="30%" valign="top">
+<td width="30%" valign="top" style="border: none;">
 
 
 Building intelligent systems that solve real problems.<br>
@@ -18,7 +18,7 @@ to create scalable, impactful solutions.
 
 
 </td>
-<td align="center" valign="middle">
+<td align="center" valign="middle" style="border: none;">
   <img src="./Tech Hearts GIF by Persona.gif" height="280" alt="Coding animation" />
 </td>
 </tr>
