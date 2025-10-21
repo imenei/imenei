@@ -18,8 +18,7 @@
   
   > *"Engineering the future through code and creativity"*
   
-        <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />
-        </tr>
+<img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />      </td>        </tr>
   </table>
 </div>
 
