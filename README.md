@@ -20,8 +20,8 @@
   </div>
   
   <!-- GIF à droite -->
-  <div style="flex-shrink: 0;>
-    <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5qM2V6c2R3ZzF1a3A3bWU1eGJ0Z3JodmRjbGZ6c2JmY2N4eGZ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPEqDGUULpEU0aQ/giphy.gif"  height="150" alt="Tech Hearts GIF" />
+  <div style="flex-shrink: 0; align="right">
+    <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5qM2V6c2R3ZzF1a3A3bWU1eGJ0Z3JodmRjbGZ6c2JmY2N4eGZ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPEqDGUULpEU0aQ/giphy.gif"  height="150" alt="Tech Hearts GIF" />
   </div>
 </div>
 
