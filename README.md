@@ -9,24 +9,25 @@
 <br>
 
 <table>
-  <tr>
-    <td width="65%" valign="top">
+<tr>
+<td width="65%" valign="top">
 
-      <h3>🚀 <strong>Bridging Innovation with Intelligent Technology</strong></h3>
+<h3>🚀 <strong>Bridging Innovation with Intelligent Technology</strong></h3>
 
-      Building intelligent systems that solve real problems.  
-      I bridge machine learning with modern web development  
-      to create scalable, impactful solutions.
+Building intelligent systems that solve real problems.<br>
+I bridge machine learning with modern web development<br>
+to create scalable, impactful solutions.
 
-      <br><br>
-      <em>"Engineering the future through code and creativity"</em>
+<br><br>
+<em>"Engineering the future through code and creativity"</em>
 
-    </td>
-    <td align="center" valign="middle">
-      <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />
-    </td>
-  </tr>
+</td>
+<td align="center" valign="middle">
+  <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />
+</td>
+</tr>
 </table>
+
 
 <br>
 
