@@ -3,18 +3,28 @@
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast&center=true&color=FF6B6B&size=25)
+  
 </div>
 
+<br>
+
 <div align="center">
-<img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Tech animation" /></div>
-<div align="center">
-  
+  <table>
+    <tr>
+      <td width="65%">
+        
   ### 🚀 **Bridging Innovation with Intelligent Technology**
   
   **Crafting next-generation solutions at the intersection of AI and full-stack development.** I thrive on transforming complex challenges into elegant, scalable systems that make a tangible impact. With a relentless curiosity for emerging technologies and a passion for data-driven innovation, I'm committed to pushing the boundaries of what's possible in the digital landscape.
   
   > *"Engineering the future through code and creativity"*
-
+  
+      </td>
+      <td width="35%" align="center">
+        <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Tech animation" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
