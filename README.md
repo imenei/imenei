@@ -11,7 +11,7 @@
 <div align="center">
 <img align="right" src="./Tech Hearts GIF by Persona.gif" height="150" alt="Tech Hearts GIF by Persona" />  
  <p style="font-size:17px; line-height:1.7; color:#E0E0E0; margin: 0;">
-  💡 <strong style="color:#4A90E2;">As a Full Stack Developer and AI Enthusiast</strong>, 
+   <strong style="color:#4A90E2;">As a Full Stack Developer and AI Enthusiast</strong>, 
   I create intelligent, data-driven solutions that turn innovation into real-world impact.<br>
 
   I’m passionate about transforming complex challenges into scalable, elegant systems 
@@ -120,3 +120,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
 </div>
+
+<p align="center" style="color:#E0E0E0; font-size:16px; font-style:italic; margin-top:15px;">
+  🌍 Always open to new ideas, collaborations, and challenges that push the limits of what technology can do.
+</p>
+
