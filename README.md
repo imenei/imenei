@@ -9,12 +9,14 @@
 <br>
 
 <div align="center">
-  <p style="font-size:25px;">
-    Building intelligent systems that solve real problems.<br>
-    I bridge machine learning with modern web development<br>
-    to create scalable, impactful solutions.
+  <p style="font-size:17px; line-height:1.6; color:#E0E0E0;">
+    As a <strong style="color:#4A90E2">Full Stack Developer</strong> and <strong style="color#FF6B6B">AI enthusiast</strong>, I bridge the gap between<br>
+    cutting-edge machine learning and modern web development.<br>
+    I specialize in creating <strong style="color:#50E3C2">scalable applications</strong> that not only work beautifully<br>
+    but also <strong style="color:#F5A623">think intelligently</strong>.
   </p>
 </div>
+
 
 <br>
 
