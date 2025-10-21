@@ -8,25 +8,30 @@
 
 <br>
 
-<table>
+
+<table style="border:none;">
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="middle" align="center" style="border:none;">
 
-<h3>🚀 <strong>Bridging Innovation with Intelligent Technology</strong></h3>
+<h2>🚀 <strong>Bridging Innovation with Intelligent Technology</strong></h2>
 
+<p style="font-size:16px;">
 Building intelligent systems that solve real problems.<br>
 I bridge machine learning with modern web development<br>
 to create scalable, impactful solutions.
+</p>
 
-<br><br>
-<em>"Engineering the future through code and creativity"</em>
+<p><em>"Engineering the future through code and creativity"</em></p>
 
 </td>
-<td align="center" valign="middle">
-  <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />
+
+<td align="center" valign="middle" style="border:none;">
+  <img src="./Tech Hearts GIF by Persona.gif" height="220" alt="Coding animation" />
 </td>
 </tr>
 </table>
+
+
 
 
 <br>
