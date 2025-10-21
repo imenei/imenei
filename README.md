@@ -1,12 +1,4 @@
-<h3 align="left">
-  Hi 👋! I'm Imene  
-  <br><br>
-  I'm a Full Stack Developer and an AI & ML enthusiast passionate about building intelligent systems that solve real-world problems.  
-  <br>
-  I love experimenting with data, developing smart models, and constantly learning new technologies every day!
-</h3>
-
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBqdzl6NHp3MzFwajJlMjg0d3Rkd3NqMXRyOGNoNW1pb3VrcGdzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif" alt="Coding girl gif" />
+<h3 align="left">Hi 👋! I'm Imene  <br><br>I'm a Full Stack Developer and an AI & ML enthusiast passionate about building intelligent systems that solve real-world problems.  <br> I love experimenting with data, developing smart models, and constantly learning new technologies every day!</h3>
 
 ###
 
@@ -14,6 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=imenei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBqdzl6NHp3MzFwajJlMjg0d3Rkd3NqMXRyOGNoNW1pb3VrcGdzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif" alt="IT Girl coding" />
 
 ###
 
@@ -101,3 +97,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/imenei/imenei/output/snake.svg" alt="Snake animation" />
+
+###
