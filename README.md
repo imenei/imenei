@@ -21,7 +21,7 @@
   
       </td>
       <td width="35%" align="center" valign="top">
-        <img src="https://media.giphy.com/media/3sDaYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Coding girl animation" />
+        <img src="https://media.giphy.com/media/3s0aYbHuv8ypgZCcjG/giphy.gif" height="180" alt="Coding girl animation" />
       </td>
     </tr>
   </table>
@@ -117,5 +117,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
-
-###
