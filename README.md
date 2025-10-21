@@ -18,9 +18,7 @@ Building intelligent systems that solve real problems.<br>
 I bridge machine learning with modern web development<br>
 to create scalable, impactful solutions.
 
-<br><br>
-<em>"Engineering the future through code and creativity"</em>
-
+<br>
 </td>
 <td align="center" valign="middle">
   <img src="./Tech Hearts GIF by Persona.gif" height="180" alt="Coding animation" />
