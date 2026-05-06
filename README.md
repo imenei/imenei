@@ -119,16 +119,7 @@ efficient, sustainable, and genuinely valuable to its users.
 <div align="center">
 <img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
 </div>
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=imenei&theme=darkhub&no-frame=true&row=1&column=8&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
- 
-</div>
-<br>
-<div align="center">
-![](https://komarev.com/ghpvc/?username=imenei&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
- 
-</div>
-<br>
+
 <h2 align="center" style="color:#4A90E2; font-weight:600; letter-spacing:1px; margin-top:25px;">
 Always open to new ideas and challenges<br>that redefine the limits of technology ✨
 </h2>
