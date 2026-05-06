@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+AI+Engineer;Building+intelligent+data-driven+solutions;Turning+complex+problems+into+impact)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +13,7 @@
 <strong style="color:#4A90E2;">As a Full Stack Developer and AI Enthusiast</strong>,
 I create intelligent, data-driven solutions that turn innovation into real-world impact.<br>
 
-I'm passionate about transforming complex challenges into scalable, elegant systems
+I’m passionate about transforming complex challenges into scalable, elegant systems
 that not only <strong style="color:#50E3C2;">perform seamlessly</strong>
 but also <strong style="color:#F5A623;">evolve intelligently</strong>.<br>
 
@@ -22,6 +21,8 @@ With a strong focus on quality and purpose, I design technology that
 <strong style="color:#FF6B6B;">solves real problems</strong>
 efficient, sustainable, and genuinely valuable to its users.
 </p>
+
+
 </div>
 
 <br clear="both">
@@ -92,40 +93,12 @@ efficient, sustainable, and genuinely valuable to its users.
 
 <br>
 
----
-
-## 🚀 Featured Projects
-
 <div align="center">
-
-[![late-delivery-shield](https://github-readme-stats.vercel.app/api/pin/?username=imenei&repo=late-delivery-shield&theme=dracula&hide_border=false&border_color=A855F7&title_color=A855F7&icon_color=A855F7)](https://github.com/imenei/late-delivery-shield)
-&nbsp;
-[![CIFAR10-CNN-YOLO-CLASSIFIER](https://github-readme-stats.vercel.app/api/pin/?username=imenei&repo=CIFAR10-CNN-YOLO-CLASSIFIER&theme=dracula&hide_border=false&border_color=A855F7&title_color=A855F7&icon_color=A855F7)](https://github.com/imenei/CIFAR10-CNN-YOLO-CLASSIFIER)
-
-[![Sentiment-Analysis-with-Recurrent-Networks-RNN-LSTM-and-Confidence-Estimation](https://github-readme-stats.vercel.app/api/pin/?username=imenei&repo=Sentiment-Analysis-with-Recurrent-Networks-RNN-LSTM-and-Confidence-Estimation&theme=dracula&hide_border=false&border_color=A855F7&title_color=A855F7&icon_color=A855F7)](https://github.com/imenei/Sentiment-Analysis-with-Recurrent-Networks-RNN-LSTM-and-Confidence-Estimation)
-&nbsp;
-[![Facturo](https://github-readme-stats.vercel.app/api/pin/?username=imenei&repo=Facturo&theme=dracula&hide_border=false&border_color=A855F7&title_color=A855F7&icon_color=A855F7)](https://github.com/imenei/Facturo)
-
+<img src="https://github-readme-stats.vercel.app/api?username=imenei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <br>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=imenei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_color=A855F7&title_color=A855F7&icon_color=A855F7" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&border_color=A855F7&title_color=A855F7" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=imenei&theme=dracula&hide_border=false&fire=A855F7&ring=A855F7&currStreakLabel=A855F7" height="150" alt="streak stats" />
-</div>
-
-<br>
-
----
 
 ## 🔗 **Let's Connect**
 
@@ -146,27 +119,16 @@ efficient, sustainable, and genuinely valuable to its users.
 <div align="center">
 <img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
 </div>
-
-<br>
-
----
-
 <div align="center">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=imenei&theme=darkhub&no-frame=true&row=1&column=8&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
+ 
 </div>
-
 <br>
-
 <div align="center">
-
 ![](https://komarev.com/ghpvc/?username=imenei&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
-
+ 
 </div>
-
 <br>
-
 <h2 align="center" style="color:#4A90E2; font-weight:600; letter-spacing:1px; margin-top:25px;">
 Always open to new ideas and challenges<br>that redefine the limits of technology ✨
 </h2>
