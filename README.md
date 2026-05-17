@@ -10,7 +10,9 @@
 <div align="center">
 <img align="right" src="./Tech Hearts GIF by Persona.gif" height="150" alt="Tech Hearts GIF by Persona" />
 <p style="font-size:17px; line-height:1.7; color:#E0E0E0; margin: 0;">
-<strong style="color:#4A90E2;">As a Full Stack Developer and AI Enthusiast</strong>,
+<strong style="color:#4A90E2;">
+As an AI Engineer & full stack Developer
+</strong>,
 I create intelligent, data-driven solutions that turn innovation into real-world impact.<br>
 
 I’m passionate about transforming complex challenges into scalable, elegant systems
