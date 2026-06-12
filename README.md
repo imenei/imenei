@@ -1,117 +1,127 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=534AB7&center=true&vCenter=true&width=600&lines=Imene+Belmadoui;AI+Engineer+%7C+Full-Stack+Dev;Building+from+scratch+to+understand.;M2+AI+%E2%80%94+seeking+internship." alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imene-belmadoui-81b117248/)
-[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:imene.belmadoui@outlook.com)
-[![GitHub](https://img.shields.io/badge/-imenei-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imenei)
-![Profile Views](https://komarev.com/ghpvc/?username=imenei&style=flat-square&color=534AB7&label=views)
-
-</div>
-
-<br/>
-
-```javascript
-const imene = {
-  status  : "M2 AI Student",
-  seeking : "AI Research Internship",
-  focus   : ["Machine Learning", "Deep Learning", "Full-Stack"],
-  motto   : "Build from scratch to understand — not just to use."
-}
-```
-
-<br/>
-
----
-
-## ◆ Featured Projects
-
-<br/>
-
-### ⭐ [late-delivery-shield](https://github.com/imenei/late-delivery-shield)
-
-> Supply chain late delivery risk classifier — stacking ensemble (LGB + XGB + CatBoost) with SHAP explainability.
-
-![Stars](https://img.shields.io/github/stars/imenei/late-delivery-shield?style=flat-square&color=534AB7)
-![Last Commit](https://img.shields.io/github/last-commit/imenei/late-delivery-shield?style=flat-square&color=1D9E75)
-
-| AUC | Recall | F1 |
-|-----|--------|----|
-| **0.9293** | **0.8507** | **0.8505** |
-
-`Python` `LightGBM` `XGBoost` `CatBoost` `SHAP` `scikit-learn`
-
-<br/>
-
-### ⭐ [Sentiment Analysis — RNN & LSTM from Scratch](https://github.com/imenei/Sentiment-Analysis-with-Recurrent-Networks-RNN-LSTM-and-Confidence-Estimation)
-
-> RNN and LSTM cells built manually from equations using only NumPy — no framework shortcuts. Includes per-prediction confidence estimation.
-
-![Stars](https://img.shields.io/github/stars/imenei/Sentiment-Analysis-with-Recurrent-Networks-RNN-LSTM-and-Confidence-Estimation?style=flat-square&color=534AB7)
-![Last Commit](https://img.shields.io/github/last-commit/imenei/Sentiment-Analysis-with-Recurrent-Networks-RNN-LSTM-and-Confidence-Estimation?style=flat-square&color=1D9E75)
-
-`Python` `NumPy` `Keras` `Deep Learning` `Sequence Modeling`
-
-<br/>
-
-### ⭐ [Facturo](https://github.com/imenei/Facturo)
-
-> Full-stack invoicing PWA — multi-role access, PDF/Word export, offline-first, Dockerized.
-
-![Stars](https://img.shields.io/github/stars/imenei/Facturo?style=flat-square&color=534AB7)
-![Last Commit](https://img.shields.io/github/last-commit/imenei/Facturo?style=flat-square&color=1D9E75)
-
-`Next.js 14` `NestJS` `PostgreSQL` `TypeScript` `Docker` `PWA`
-
-<br/>
-
----
-
-## ◆ Tech Stack
+<h1 align="center">👋 Hello, I'm Imene</h1>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
-<br/>
-
----
-
-## ◆ Stats
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imenei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=prs" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenei&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" />
+<img align="right" src="./Tech Hearts GIF by Persona.gif" height="150" alt="Tech Hearts GIF by Persona" />
+<p style="font-size:17px; line-height:1.7; color:#E0E0E0; margin: 0;">
+<strong style="color:#4A90E2;">
+As an AI Engineer & full stack Developer
+</strong>,
+I create intelligent, data-driven solutions that turn innovation into real-world impact.<br>
+
+I’m passionate about transforming complex challenges into scalable, elegant systems
+that not only <strong style="color:#50E3C2;">perform seamlessly</strong>
+but also <strong style="color:#F5A623;">evolve intelligently</strong>.<br>
+
+With a strong focus on quality and purpose, I design technology that
+<strong style="color:#FF6B6B;">solves real problems</strong>
+efficient, sustainable, and genuinely valuable to its users.
+</p>
+
+
 </div>
+
+<br clear="both">
+
+<br>
+
+## 🛠️ Tech Stack
+
+### **Frontend & Mobile**
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
+</div>
+
+### **Backend & Databases**
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+</div>
+
+### **AI & Data Science**
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo" />
+</div>
+
+### **Tools & Others**
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imenei&theme=tokyonight&hide_border=true" height="145" />
+<img src="https://github-readme-stats.vercel.app/api?username=imenei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<br/>
+<br>
 
----
+## 🔗 **Let's Connect**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="snake" />
-  <br/><br/>
-  <sub>building at the intersection of research and production.</sub>
+<a href="https://www.linkedin.com/in/imene-belmadoui-81b117248/" target="_blank">
+<img src="https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" height="40" />
+</a>
+<a href="mailto:imene.belmadoui@outlook.com" target="_blank">
+<img src="https://img.shields.io/badge/Collaborate-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&label=Email" height="40" />
+</a>
+<a href="https://github.com/imenei" target="_blank">
+<img src="https://img.shields.io/badge/Explore_Code-181717?style=for-the-badge&logo=github&logoColor=white&label=GitHub" height="40" />
+</a>
 </div>
+
+<br clear="both">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
+</div>
+
+<h2 align="center" style="color:#4A90E2; font-weight:600; letter-spacing:1px; margin-top:25px;">
+Always open to new ideas and challenges<br>that redefine the limits of technology ✨
+</h2>
