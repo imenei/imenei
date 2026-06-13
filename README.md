@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hello, I'm Imene</h1>
 
 <div align="center">
+
+
 </div>
 
 <br>
@@ -13,7 +15,7 @@ As an AI Engineer & full stack Developer
 </strong>,
 I create intelligent, data-driven solutions that turn innovation into real-world impact.<br>
 
-I'm passionate about transforming complex challenges into scalable, elegant systems
+I’m passionate about transforming complex challenges into scalable, elegant systems
 that not only <strong style="color:#50E3C2;">perform seamlessly</strong>
 but also <strong style="color:#F5A623;">evolve intelligently</strong>.<br>
 
@@ -21,6 +23,8 @@ With a strong focus on quality and purpose, I design technology that
 <strong style="color:#FF6B6B;">solves real problems</strong>
 efficient, sustainable, and genuinely valuable to its users.
 </p>
+
+
 </div>
 
 <br clear="both">
@@ -115,12 +119,7 @@ efficient, sustainable, and genuinely valuable to its users.
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
-</div>
-
-<!-- 3D Contribution Graph -->
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
 </div>
 
 <h2 align="center" style="color:#4A90E2; font-weight:600; letter-spacing:1px; margin-top:25px;">
