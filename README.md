@@ -1,107 +1,134 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:6d28d9,100:a855f7&height=220&section=header&text=Imene%20Belmadoui&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Creative%20Builder&descAlignY=68&descSize=16&descColor=c4b5fd" width="100%"/>
+<h1 align="center">👋 Hi, I'm Imene Belmadoui</h1>
+<h3 align="center">AI & Data Science Engineer • Full-Stack Developer • MSc Intelligent Systems</h3>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Deep%20Learning%20%26%20RL-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialty-End--to--End%20AI%20Systems-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-SaaS%20%26%20Intelligent%20Apps-3ECF8E?style=for-the-badge" />
+</p>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=550&lines=I+build+things+that+think+%F0%9F%A7%A0;Reinforcement+Learning+%C2%B7+Deep+RL+%C2%B7+LLMs;From+raw+data+to+intelligent+systems;AI+Engineer+%2B+Creative+problem+solver)](https://git.io/typing-svg)
-
+  <img align="right" src="./Tech Hearts GIF by Persona.gif" height="160" alt="Tech Hearts GIF" />
+  
+  <p align="left" style="font-size: 16px; line-height: 1.8; max-width: 650px;">
+    🚀 <strong>I build systems that learn, evolve, and solve real-world problems.</strong><br>
+    As an AI Engineer and Data Scientist with a strong Full-Stack foundation, I bridge the gap between complex algorithms and scalable production software. From training autonomous agents via Reinforcement Learning to engineering robust enterprise SaaS platforms, I design fluid, high-performing tech stacks.
+  </p>
 </div>
 
-<br/>
+<br clear="both">
 
 ---
 
-### `> whoami`
+## 🚀 Featured Projects
 
-```python
-imene = {
-    "role"     : "AI Engineer & Full Stack Developer",
-    "location" : "Algeria 🇩🇿",
-    "focus"    : ["Reinforcement Learning", "LLMs", "Computer Vision"],
-    "learning" : "always",
-    "contact"  : "imene.belmadoui@outlook.com"
-}
-```
+<details open>
+<summary>🧠 <strong>Artificial Intelligence & Reinforcement Learning</strong></summary>
+<br>
+<ul>
+  <li>
+    <strong>🕹️ <a href="https://github.com/imenei/mario-ppo-agent">mario-ppo-agent</a></strong><br>
+    An AI agent trained to master Super Mario Bros using <strong>Deep Reinforcement Learning (PPO)</strong> and Stable-Baselines3.<br>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Reinforcement_Learning-blue?style=flat-square" />
+  </li>
+  <br>
+  <li>
+    <strong>📈 <a href="https://github.com/imenei/late-delivery-shield">late-delivery-shield</a></strong><br>
+    A high-accuracy supply chain risk classifier using an advanced <strong>LGBM + XGBoost + CatBoost Stacking</strong> ensemble, fully explained via <strong>SHAP</strong> values. <em>Zero data leakage, zero overfitting.</em><br>
+    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square" /> <img src="https://img.shields.io/badge/Data_Mining-orange?style=flat-square" />
+  </li>
+  <br>
+  <li>
+    <strong>🔍 <a href="https://github.com/imenei/unsupervised-learning-from-scratch">unsupervised-learning-from-scratch</a></strong><br>
+    Five key clustering algorithms (K-Means, K-Medoids, AGNES, DIANA, DBSCAN) built completely <strong>from the ground up using NumPy</strong> and applied to retail customer segmentation.<br>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pure_Python-3776AB?style=flat-square" />
+  </li>
+  <br>
+  <li>
+    <strong>🖼️ <a href="https://github.com/imenei/CIFAR10-CNN-YOLO-CLASSIFIER">CIFAR10-CNN-YOLO-Classifier</a></strong><br>
+    Image classification on CIFAR-10 implemented via a custom-designed PyTorch CNN alongside <strong>YOLOv8</strong> pipelines.<br>
+    <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=opencv&logoColor=black" /> <img src="https://img.shields.io/badge/Computer_Vision-green?style=flat-square" />
+  </li>
+</ul>
+</details>
 
----
-
-### `> ls ./projects`
-
-<div align="center">
-
-| | Project | What it does | Stack |
-|--|---------|-------------|-------|
-| 🍄 | **[mario-ppo-agent](https://github.com/imenei/mario-ppo-agent)** | AI agent trained to play Super Mario Bros from scratch — no rules, just reward signals | `PPO` `SB3` `PyTorch` `Colab T4` |
-| 🔮 | **more coming...** | | |
-
-</div>
-
----
-
-### `> cat skills.json`
-
-<div align="center">
-
-**🧠 AI & ML**
-
-![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=a855f7)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a0533?style=flat-square&logo=pytorch&logoColor=a855f7)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a0533?style=flat-square&logo=tensorflow&logoColor=a855f7)
-![Stable Baselines3](https://img.shields.io/badge/Stable--Baselines3-1a0533?style=flat-square&logo=python&logoColor=a855f7)
-![OpenCV](https://img.shields.io/badge/OpenCV-1a0533?style=flat-square&logo=opencv&logoColor=a855f7)
-![NumPy](https://img.shields.io/badge/NumPy-1a0533?style=flat-square&logo=numpy&logoColor=a855f7)
-![Pandas](https://img.shields.io/badge/Pandas-1a0533?style=flat-square&logo=pandas&logoColor=a855f7)
-
-**🎨 Frontend & Mobile**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=flat-square&logo=javascript&logoColor=a855f7)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=flat-square&logo=typescript&logoColor=a855f7)
-![React](https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=a855f7)
-![Next.js](https://img.shields.io/badge/Next.js-1a0533?style=flat-square&logo=next.js&logoColor=a855f7)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a0533?style=flat-square&logo=tailwindcss&logoColor=a855f7)
-![Flutter](https://img.shields.io/badge/Flutter-1a0533?style=flat-square&logo=flutter&logoColor=a855f7)
-
-**⚙️ Backend & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=flat-square&logo=node.js&logoColor=a855f7)
-![Django](https://img.shields.io/badge/Django-1a0533?style=flat-square&logo=django&logoColor=a855f7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=a855f7)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a0533?style=flat-square&logo=mongodb&logoColor=a855f7)
-![Docker](https://img.shields.io/badge/Docker-1a0533?style=flat-square&logo=docker&logoColor=a855f7)
-![Git](https://img.shields.io/badge/Git-1a0533?style=flat-square&logo=git&logoColor=a855f7)
-
-</div>
+<details>
+<summary>💼 <strong>Full-Stack & Intelligent SaaS Platforms</strong></summary>
+<br>
+<ul>
+  <li>
+    <strong>📊 <a href="https://github.com/imenei/Facturo">Facturo</a></strong><br>
+    A modern enterprise management and billing SaaS application crafted for seamless business workflows.<br>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  </li>
+  <br>
+  <li>
+    <strong>💊 <a href="https://github.com/imenei/PharmaFlow">PharmaFlow / Pharmapp</a></strong><br>
+    An end-to-end B2B Pharmaceutical Supplier Management Platform stabilizing supply chains and operations.<br>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  </li>
+</ul>
+</details>
 
 ---
 
-### `> git log --stats`
+## 🛠️ Technical Arsenal
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>🧠 AI & Data Science</strong><br>
+      • Python / Jupyter / Anaconda<br>
+      • PyTorch / TensorFlow / Keras<br>
+      • Scikit-Learn / XGBoost / CatBoost<br>
+      • OpenCV / YOLOv8<br>
+      • Pandas / NumPy / SHAP
+    </td>
+    <td valign="top" width="33%">
+      <strong>💻 Frontend & Mobile</strong><br>
+      • Next.js / React.js<br>
+      • TypeScript / JavaScript<br>
+      • Tailwind CSS / HTML5<br>
+      • Flutter / Dart
+    </td>
+    <td valign="top" width="33%">
+      <strong>⚙️ Backend & Infrastructure</strong><br>
+      • NestJS / Node.js / Django<br>
+      • PostgreSQL / Supabase<br>
+      • MySQL / MongoDB<br>
+      • Docker / Git / Linux
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Activity & Metrics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=imenei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a855f7&icon_color=7c3aed&text_color=e9d5ff&ring_color=a855f7" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=e9d5ff" height="155"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imenei&theme=tokyonight&hide_border=true&background=0d0221&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=e9d5ff&dates=7c3aed" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imenei&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenei&layout=compact&langs_count=5&theme=buefy&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ---
 
-### `> ./connect.sh`
+## 🤝 Let's Build Something Great
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://www.linkedin.com/in/imene-belmadoui-81b117248/)
-[![Email](https://img.shields.io/badge/Email-1a0533?style=for-the-badge&logo=microsoft-outlook&logoColor=a855f7)](mailto:imene.belmadoui@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/imenei)
-
+  <a href="https://www.linkedin.com/in/imene-belmadoui-81b117248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
+  </a>
+  <a href="mailto:imene.belmadoui@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="38" />
+  </a>
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:6d28d9,100:a855f7&height=100&section=footer" width="100%"/>
+<h3 align="center" style="color:#8A2BE2;">
+  Always exploring new architectures, training loops, and complex technical challenges. ✨
+</h3>
