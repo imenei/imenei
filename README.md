@@ -1,134 +1,149 @@
-<h1 align="center">👋 Hi, I'm Imene Belmadoui</h1>
-<h3 align="center">AI & Data Science Engineer • Full-Stack Developer • MSc Intelligent Systems</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Deep%20Learning%20%26%20RL-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialty-End--to--End%20AI%20Systems-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-SaaS%20%26%20Intelligent%20Apps-3ECF8E?style=for-the-badge" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter:wght@700&size=32&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I'm+Imene;AI+Engineer+%26+Full+Stack+Developer;Building+Intelligent+Systems;LLMs+%7C+NLP+%7C+Deep+Learning" alt="Typing SVG" />
+</h1>
 
 <div align="center">
-  <img align="right" src="./Tech Hearts GIF by Persona.gif" height="160" alt="Tech Hearts GIF" />
-  
-  <p align="left" style="font-size: 16px; line-height: 1.8; max-width: 650px;">
-    🚀 <strong>I build systems that learn, evolve, and solve real-world problems.</strong><br>
-    As an AI Engineer and Data Scientist with a strong Full-Stack foundation, I bridge the gap between complex algorithms and scalable production software. From training autonomous agents via Reinforcement Learning to engineering robust enterprise SaaS platforms, I design fluid, high-performing tech stacks.
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=50E3C2&center=true&vCenter=true&width=600&lines=Always+learning+%7C+Always+building+%7C+Always+evolving" alt="Typing subtitle" />
+  </a>
 </div>
 
-<br clear="both">
-
----
-
-## 🚀 Featured Projects
-
-<details open>
-<summary>🧠 <strong>Artificial Intelligence & Reinforcement Learning</strong></summary>
 <br>
-<ul>
-  <li>
-    <strong>🕹️ <a href="https://github.com/imenei/mario-ppo-agent">mario-ppo-agent</a></strong><br>
-    An AI agent trained to master Super Mario Bros using <strong>Deep Reinforcement Learning (PPO)</strong> and Stable-Baselines3.<br>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Reinforcement_Learning-blue?style=flat-square" />
-  </li>
-  <br>
-  <li>
-    <strong>📈 <a href="https://github.com/imenei/late-delivery-shield">late-delivery-shield</a></strong><br>
-    A high-accuracy supply chain risk classifier using an advanced <strong>LGBM + XGBoost + CatBoost Stacking</strong> ensemble, fully explained via <strong>SHAP</strong> values. <em>Zero data leakage, zero overfitting.</em><br>
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square" /> <img src="https://img.shields.io/badge/Data_Mining-orange?style=flat-square" />
-  </li>
-  <br>
-  <li>
-    <strong>🔍 <a href="https://github.com/imenei/unsupervised-learning-from-scratch">unsupervised-learning-from-scratch</a></strong><br>
-    Five key clustering algorithms (K-Means, K-Medoids, AGNES, DIANA, DBSCAN) built completely <strong>from the ground up using NumPy</strong> and applied to retail customer segmentation.<br>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pure_Python-3776AB?style=flat-square" />
-  </li>
-  <br>
-  <li>
-    <strong>🖼️ <a href="https://github.com/imenei/CIFAR10-CNN-YOLO-CLASSIFIER">CIFAR10-CNN-YOLO-Classifier</a></strong><br>
-    Image classification on CIFAR-10 implemented via a custom-designed PyTorch CNN alongside <strong>YOLOv8</strong> pipelines.<br>
-    <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=opencv&logoColor=black" /> <img src="https://img.shields.io/badge/Computer_Vision-green?style=flat-square" />
-  </li>
-</ul>
-</details>
-
-<details>
-<summary>💼 <strong>Full-Stack & Intelligent SaaS Platforms</strong></summary>
-<br>
-<ul>
-  <li>
-    <strong>📊 <a href="https://github.com/imenei/Facturo">Facturo</a></strong><br>
-    A modern enterprise management and billing SaaS application crafted for seamless business workflows.<br>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  </li>
-  <br>
-  <li>
-    <strong>💊 <a href="https://github.com/imenei/PharmaFlow">PharmaFlow / Pharmapp</a></strong><br>
-    An end-to-end B2B Pharmaceutical Supplier Management Platform stabilizing supply chains and operations.<br>
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  </li>
-</ul>
-</details>
-
----
-
-## 🛠️ Technical Arsenal
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <strong>🧠 AI & Data Science</strong><br>
-      • Python / Jupyter / Anaconda<br>
-      • PyTorch / TensorFlow / Keras<br>
-      • Scikit-Learn / XGBoost / CatBoost<br>
-      • OpenCV / YOLOv8<br>
-      • Pandas / NumPy / SHAP
-    </td>
-    <td valign="top" width="33%">
-      <strong>💻 Frontend & Mobile</strong><br>
-      • Next.js / React.js<br>
-      • TypeScript / JavaScript<br>
-      • Tailwind CSS / HTML5<br>
-      • Flutter / Dart
-    </td>
-    <td valign="top" width="33%">
-      <strong>⚙️ Backend & Infrastructure</strong><br>
-      • NestJS / Node.js / Django<br>
-      • PostgreSQL / Supabase<br>
-      • MySQL / MongoDB<br>
-      • Docker / Git / Linux
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imenei&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenei&layout=compact&langs_count=5&theme=buefy&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
----
+<br>
 
-## 🤝 Let's Build Something Great
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+        <h3>🧠 <span style="color:#4A90E2">About Me</span></h3>
+        <p style="font-size:15px; line-height:1.8; color:#E0E0E0;">
+          <strong style="color:#4A90E2;">AI Engineer & Full Stack Developer</strong> crafting intelligent, data-driven solutions that bridge research and real-world impact.
+        </p>
+        <p style="font-size:15px; line-height:1.8; color:#E0E0E0;">
+          I specialize in <strong style="color:#50E3C2;">LLMs</strong>, <strong style="color:#50E3C2;">NLP</strong>, and <strong style="color:#50E3C2;">Deep Learning</strong> — transforming complex challenges into scalable, elegant systems that <strong style="color:#F5A623;">evolve intelligently</strong> and <strong style="color:#FF6B6B;">solve real problems</strong>.
+        </p>
+        <p style="font-size:15px; line-height:1.8; color:#E0E0E0;">
+          🎓 MSc Intelligent Systems · 🔬 Research-driven · 🚀 Production-ready
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="Contribution Grid" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=700&lines=🤖+Building+end-to-end+AI+systems+with+LLMs;📊+Deep+Reinforcement+Learning+for+autonomous+agents;🔍+NLP+pipelines+with+transformers+and+RAG;🧬+Computer+Vision+with+YOLO+and+PyTorch;⚡+Scalable+full-stack+applications" alt="Current focus" />
+</div>
+
+<br>
+
+## 🛠️ Tech Ecosystem
+
+### **🎨 Frontend & Mobile**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flutter&theme=dark&perline=6" alt="Frontend skills" />
+</div>
+
+### **⚙️ Backend & Data**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,postgres,mongodb,mysql,graphql&theme=dark&perline=6" alt="Backend skills" />
+</div>
+
+### **🧠 AI & Machine Learning**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark&perline=6" alt="AI skills" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="35" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="35" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Stable--Baselines3-0081A5?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Stable-Baselines3" />
+</div>
+
+### **🛠️ DevOps & Tools**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,vscode,figma&theme=dark&perline=6" alt="DevOps skills" />
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imenei&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=4A90E2&icon_color=50E3C2&text_color=E0E0E0" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenei&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=E0E0E0&langs_count=8&card_width=320" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imenei&theme=radical&hide_border=true&background=0D1117&stroke=4A90E2&ring=50E3C2&fire=F5A623&currStreakLabel=4A90E2" height="180" alt="GitHub Streak" />
+</div>
+
+<br>
+
+## 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/imenei/mario-ppo-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imenei&repo=mario-ppo-agent&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=50E3C2" alt="Mario PPO Agent" />
+  </a>
+  <a href="https://github.com/imenei/late-delivery-shield">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imenei&repo=late-delivery-shield&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=50E3C2" alt="Late Delivery Shield" />
+  </a>
+  <a href="https://github.com/imenei/Sentiment-Analysis-with-Recurrent-Networks-RNN-LSTM-and-Confidence-Estimation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imenei&repo=Sentiment-Analysis-with-Recurrent-Networks-RNN-LSTM-and-Confidence-Estimation&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=50E3C2" alt="Sentiment Analysis" />
+  </a>
+  <a href="https://github.com/imenei/CIFAR10-CNN-YOLO-CLASSIFIER">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imenei&repo=CIFAR10-CNN-YOLO-CLASSIFIER&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=50E3C2" alt="CIFAR10 CNN YOLO" />
+  </a>
+</div>
+
+<br>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br>
+
+## 🌐 Let's Connect & Collaborate
 
 <div align="center">
   <a href="https://www.linkedin.com/in/imene-belmadoui-81b117248/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Let's+Connect" height="40" />
   </a>
   <a href="mailto:imene.belmadoui@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="38" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&label=Email+Me" height="40" />
+  </a>
+  <a href="https://github.com/imenei" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Explore+Code" height="40" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A90E2,50E3C2,F5A623&height=120&section=footer&animation=twinkling" width="100%" alt="Footer wave" />
 </div>
 
-<h3 align="center" style="color:#8A2BE2;">
-  Always exploring new architectures, training loops, and complex technical challenges. ✨
+<h3 align="center" style="color:#4A90E2; font-weight:600; letter-spacing:1px; margin-top:20px;">
+  ✨ Always open to ideas that redefine the limits of technology ✨
 </h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=imenei&color=4A90E2&style=for-the-badge" alt="Profile views" />
+</div>
