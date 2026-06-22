@@ -1,94 +1,100 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3DE8,50:C653FF,100:FF6BDE&height=200&section=header&text=Imene%20Belmadoui&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:6d28d9,100:a855f7&height=220&section=header&text=Imene%20Belmadoui&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Creative%20Builder&descAlignY=68&descSize=16&descColor=c4b5fd" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C653FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A7%A0;Turning+data+into+decisions+%F0%9F%93%8A;From+pixels+to+predictions+%F0%9F%8E%AE;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=550&lines=I+build+things+that+think+%F0%9F%A7%A0;Reinforcement+Learning+%C2%B7+Deep+RL+%C2%B7+LLMs;From+raw+data+to+intelligent+systems;AI+Engineer+%2B+Creative+problem+solver)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<img align="right" src="./Tech Hearts GIF by Persona.gif" height="150" alt="Tech Hearts GIF" />
+---
 
-**AI Engineer & Full Stack Developer** — I build intelligent, data-driven solutions that bridge research and real-world impact.
+### `> whoami`
 
-Passionate about Reinforcement Learning, scalable backends, and clean interfaces that *actually* work.
-
-Currently exploring: **Deep RL · LLMs · Computer Vision**
-
-<br clear="both"/>
+```python
+imene = {
+    "role"     : "AI Engineer & Full Stack Developer",
+    "location" : "Algeria 🇩🇿",
+    "focus"    : ["Reinforcement Learning", "LLMs", "Computer Vision"],
+    "learning" : "always",
+    "contact"  : "imene.belmadoui@outlook.com"
+}
+```
 
 ---
 
-## 🚀 Featured Projects
+### `> ls ./projects`
 
 <div align="center">
 
-| Project | Description | Stack | Demo |
-|--------|-------------|-------|------|
-| 🍄 **Mario PPO Agent** | AI agent trained to play Super Mario Bros from scratch using Deep RL | `Python` `PPO` `SB3` `Colab` | [→ Repo](https://github.com/imenei/mario-ppo-agent) |
-| 🔮 **Coming soon...** | | | |
+| | Project | What it does | Stack |
+|--|---------|-------------|-------|
+| 🍄 | **[mario-ppo-agent](https://github.com/imenei/mario-ppo-agent)** | AI agent trained to play Super Mario Bros from scratch — no rules, just reward signals | `PPO` `SB3` `PyTorch` `Colab T4` |
+| 🔮 | **more coming...** | | |
 
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend & Mobile
-<div align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flutter&theme=dark" />
-</div>
-
-### ⚙️ Backend & Databases
-<div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,django,mongodb,mysql,postgres&theme=dark" />
-</div>
-
-### 🧠 AI & Data Science
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,jupyter&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Stable--Baselines3-FF6B6B?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
-</div>
-
-### 🔧 Tools
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,linux&theme=dark" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### `> cat skills.json`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=imenei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C653FF&icon_color=6C3DE8&text_color=ffffff" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C653FF&text_color=ffffff" height="160"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imenei&theme=tokyonight&hide_border=true&background=0D1117&ring=C653FF&fire=FF6BDE&currStreakLabel=C653FF" height="160"/>
+**🧠 AI & ML**
+
+![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=a855f7)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a0533?style=flat-square&logo=pytorch&logoColor=a855f7)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a0533?style=flat-square&logo=tensorflow&logoColor=a855f7)
+![Stable Baselines3](https://img.shields.io/badge/Stable--Baselines3-1a0533?style=flat-square&logo=python&logoColor=a855f7)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a0533?style=flat-square&logo=opencv&logoColor=a855f7)
+![NumPy](https://img.shields.io/badge/NumPy-1a0533?style=flat-square&logo=numpy&logoColor=a855f7)
+![Pandas](https://img.shields.io/badge/Pandas-1a0533?style=flat-square&logo=pandas&logoColor=a855f7)
+
+**🎨 Frontend & Mobile**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=flat-square&logo=javascript&logoColor=a855f7)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=flat-square&logo=typescript&logoColor=a855f7)
+![React](https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=a855f7)
+![Next.js](https://img.shields.io/badge/Next.js-1a0533?style=flat-square&logo=next.js&logoColor=a855f7)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a0533?style=flat-square&logo=tailwindcss&logoColor=a855f7)
+![Flutter](https://img.shields.io/badge/Flutter-1a0533?style=flat-square&logo=flutter&logoColor=a855f7)
+
+**⚙️ Backend & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=flat-square&logo=node.js&logoColor=a855f7)
+![Django](https://img.shields.io/badge/Django-1a0533?style=flat-square&logo=django&logoColor=a855f7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=a855f7)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a0533?style=flat-square&logo=mongodb&logoColor=a855f7)
+![Docker](https://img.shields.io/badge/Docker-1a0533?style=flat-square&logo=docker&logoColor=a855f7)
+![Git](https://img.shields.io/badge/Git-1a0533?style=flat-square&logo=git&logoColor=a855f7)
+
 </div>
 
 ---
 
-## 🔗 Let's Connect
+### `> git log --stats`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=imenei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a855f7&icon_color=7c3aed&text_color=e9d5ff&ring_color=a855f7" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=e9d5ff" height="155"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imenei&theme=tokyonight&hide_border=true&background=0d0221&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=e9d5ff&dates=7c3aed" height="155"/>
+</div>
+
+---
+
+### `> ./connect.sh`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imene-belmadoui-81b117248/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:imene.belmadoui@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imenei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://www.linkedin.com/in/imene-belmadoui-81b117248/)
+[![Email](https://img.shields.io/badge/Email-1a0533?style=for-the-badge&logo=microsoft-outlook&logoColor=a855f7)](mailto:imene.belmadoui@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/imenei)
 
 </div>
 
@@ -98,6 +104,4 @@ Currently exploring: **Deep RL · LLMs · Computer Vision**
 <img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3DE8,50:C653FF,100:FF6BDE&height=100&section=footer" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,50:6d28d9,100:a855f7&height=100&section=footer" width="100%"/>
