@@ -1,9 +1,7 @@
  <h1 align="center">👋 Hello, I'm Imene</h1>
 
 <div align="center">
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imenei&color=4A90E2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+
 
 </div>
 
@@ -127,3 +125,6 @@ efficient, sustainable, and genuinely valuable to its users.
 <h2 align="center" style="color:#4A90E2; font-weight:600; letter-spacing:1px; margin-top:25px;">
 Always open to new ideas and challenges<br>that redefine the limits of technology ✨
 </h2>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=imenei&color=4A90E2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
