@@ -1,7 +1,9 @@
  <h1 align="center">👋 Hello, I'm Imene</h1>
 
 <div align="center">
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=imenei&color=4A90E2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 </div>
 
