@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:080B18,50:352078,100:1769FF&text=IMENE%20BELMADOUI&fontColor=FFFFFF&fontSize=48&fontAlignY=48&desc=AI%20ENGINEER%20%20%C2%B7%20%20DATA%20SCIENTIST%20%20%C2%B7%20%20FULL-STACK%20DEVELOPER&descSize=13&descAlignY=68&animation=fadeIn" width="100%" />
