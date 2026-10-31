@@ -1,116 +1,130 @@
+ <h1 align="center">👋 Hello, I'm Imene</h1>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090B1A,45:352078,100:397BFF&text=IMENE%20BELMADOUI&fontColor=FFFFFF&fontSize=45&fontAlignY=42&desc=AI%20ENGINEER%20%7C%20DATA%20SCIENTIST%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=65&descSize=13"/>
-
-<br/>
-
-### Building intelligence. Engineering ideas. Creating impact.
-
-[LinkedIn](https://www.linkedin.com/in/imene-belmadoui-81b117248/) · [Email](mailto:imene.belmadoui@outlook.com) · [GitHub](https://github.com/imenei)
 
 </div>
 
-<br/>
-
-## ✦ About Me
-
-I'm **Imene**, an AI Engineer, Data Scientist, and Full-Stack Developer.
-
-I build intelligent applications, explore machine learning and deep learning, and turn ideas into real-world digital products.
-
-Currently interested in:
-- Artificial Intelligence & Deep Learning
-- LLMs, NLP & Intelligent Agents
-- Data Science & Predictive Analytics
-- Full-Stack & SaaS Development
-- AI-powered startups & entrepreneurship
-
-<br/>
-
-## ✦ Technology Universe
+<br>
 
 <div align="center">
+<img align="right" src="./Tech Hearts GIF by Persona.gif" height="150" alt="Tech Hearts GIF by Persona" />
+<p style="font-size:17px; line-height:1.7; color:#E0E0E0; margin: 0;">
+<strong style="color:#4A90E2;">
+As an AI Engineer & full stack Developer
+</strong>,
+I create intelligent, data-driven solutions that turn innovation into real-world impact.<br>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" />
+I’m passionate about transforming complex challenges into scalable, elegant systems
+that not only <strong style="color:#50E3C2;">perform seamlessly</strong>
+but also <strong style="color:#F5A623;">evolve intelligently</strong>.<br>
 
-<br/><br/>
+With a strong focus on quality and purpose, I design technology that
+<strong style="color:#FF6B6B;">solves real problems</strong>
+efficient, sustainable, and genuinely valuable to its users.
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,flutter&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,nestjs,postgres,mysql,mongodb,supabase&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,vscode,vercel&theme=dark" />
 
 </div>
 
-<br/>
+<br clear="both">
 
-## ✦ Featured Projects
+<br>
 
-| Project | Description |
-|:--|:--|
-| **WinEmploie** | AI-powered recruitment and intelligent CV matching |
-| **Fikra** | AI educational platform with RAG-based assistance |
-| **Pharma Platform** | Digital ecosystem for pharmaceutical professionals |
-| **AI Churn Platform** | Customer segmentation, churn prediction and LLM agents |
+## 🛠️ Tech Stack
 
-<br/>
-
-## ✦ GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=imenei&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=CBD5E1&include_all_commits=true"/>
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imenei&layout=donut&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&langs_count=7"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=imenei&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA"/>
-
+### **Frontend & Mobile**
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
 </div>
 
-<br/>
-
-## ✦ Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imenei&bg_color=0D1117&color=A78BFA&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-<br/>
-
-<img width="100%" src="https://ghchart.rshah.org/8B5CF6/imenei" alt="GitHub Contribution Calendar"/>
-
+### **Backend & Databases**
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
 </div>
 
-<br/>
+### **AI & Data Science**
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo" />
+</div>
 
-## ✦ Let's Connect
+### **Tools & Others**
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+</div>
+
+<br>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=imenei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imenei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-<a href="https://www.linkedin.com/in/imene-belmadoui-81b117248/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br>
+
+## 🔗 **Let's Connect**
+
+<div align="center">
+<a href="https://www.linkedin.com/in/imene-belmadoui-81b117248/" target="_blank">
+<img src="https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" height="40" />
 </a>
-
-<a href="mailto:imene.belmadoui@outlook.com">
-<img src="https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:imene.belmadoui@outlook.com" target="_blank">
+<img src="https://img.shields.io/badge/Collaborate-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&label=Email" height="40" />
 </a>
-
-<a href="https://github.com/imenei">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/imenei" target="_blank">
+<img src="https://img.shields.io/badge/Explore_Code-181717?style=for-the-badge&logo=github&logoColor=white&label=GitHub" height="40" />
 </a>
-
-<br/><br/>
-
-**Ideas become products. Products create impact.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:397BFF,55:352078,100:090B1A&height=110&section=footer"/>
-
 </div>
-```
+
+<br clear="both">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Snake animation" />
+</div>
+
+<h2 align="center" style="color:#4A90E2; font-weight:600; letter-spacing:1px; margin-top:25px;">
+Always open to new ideas and challenges<br>that redefine the limits of technology ✨
+</h2>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=imenei&color=4A90E2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
