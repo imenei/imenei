@@ -6,11 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;LLMs+%7C+RAG+%7C+AI+Agents;Machine+Learning+%7C+Deep+Learning;Building+Intelligent+AI+Systems;Full-Stack+Developer" alt="Typing SVG" />
 
-<br/>
 
-**AI & Data Science Engineer · Full-Stack Developer**
-
-<br/>
 
 <a href="https://github.com/imenei">
 <img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
