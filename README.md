@@ -234,13 +234,3 @@ Analyzes fashion images using ResNet50 embeddings, visual similarity matching an
 
 </div>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imene-belmadoui-81b117248/)
-[![Email](https://img.shields.io/badge/EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imene.belmadoui@outlook.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imenei)
-
-<br/><br/>
-
-
-</div>
