@@ -1,183 +1,111 @@
- 
-<div align="center">
+ <div align="center">
 
-# ✨ IMENE BELMADOUI
+# 👋 Hi, I'm Imene
 
-### AI Engineer & Full-Stack Developer
+### AI & Data Science Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Applications;Exploring+LLMs+%26+Multi-Agent+Systems;Machine+Learning+%7C+RAG+%7C+Deep+Learning;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG" />
+**LLMs · NLP · Deep Learning · Building End-to-End AI Systems**
 
-<p>
-  <a href="https://www.linkedin.com/in/imene-belmadoui-81b117248/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:imene.belmadoui@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="https://github.com/imenei"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+MSc Intelligent Systems · Open to Opportunities
 
-<img src="https://komarev.com/ghpvc/?username=imenei&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imene-belmadoui-81b117248/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/imenei)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imene.belmadoui@outlook.com)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## ✨ About Me
 
-I'm **Imene Belmadoui**, an AI Engineer & Full-Stack Developer passionate about building intelligent, data-driven applications.
+I'm an AI & Data Science Engineer interested in building intelligent systems that solve real-world problems.
 
-My interests lie at the intersection of **Artificial Intelligence, Machine Learning, LLMs, and Software Engineering**.
-
-- 🤖 Building AI-powered applications and intelligent agents.
-- 🧠 Exploring LLMs, RAG architectures, NLP and Deep Learning.
-- 💻 Developing scalable full-stack solutions.
-- 📊 Applying Machine Learning to real-world problems.
-- 🚀 Turning innovative ideas into practical products.
-
----
-
-## 🧠 Areas of Expertise
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-9333EA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-DB2777?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full--Stack%20Development-0D9488?style=for-the-badge" />
-
-</div>
+- 🤖 Working on **AI Agents, LLMs, RAG and Multi-Agent Systems**
+- 🧠 Interested in **Machine Learning, NLP and Deep Learning**
+- 🛠️ Building end-to-end AI applications, from data processing to deployment
+- 🌍 Interested in innovative AI products and practical applications
+- 🚀 Always learning, experimenting and building
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 1. UniScience AI — AI Learning Companion
 
-### 🤖 [UniverScience AI](https://github.com/imenei/universcience-ai)
+An AI-powered learning platform for university science students, offering grounded tutoring, quiz generation, source citations and learning progress tracking.
 
-**AI-Powered University Learning Companion**
+**Tech:** Next.js · TypeScript · PostgreSQL · Supabase · RAG · Docker
 
-A learning platform for university science students, featuring course-grounded AI tutoring, page-level citations, automatically generated quizzes and personalized progress tracking.
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github)](https://github.com/imenei/universcience-ai)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-06B6D4?style=flat&logo=vercel&logoColor=white)](https://universcience-ai.vercel.app)
 
-`Next.js` `TypeScript` `RAG` `LLMs` `PostgreSQL` `Supabase`
+### 2. DocChat — Multi-Agent RAG System
 
----
+A multi-agent document question-answering system designed to reduce hallucinations through hybrid retrieval, LangGraph orchestration and answer verification.
 
-### 🧩 [DocChat Multi-Agent RAG](https://github.com/imenei/docchat-multiagent-rag)
+**Tech:** Python · LangChain · LangGraph · RAG · BM25 · Vector Search
 
-**Multi-Agent Document Question Answering System**
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github)](https://github.com/imenei/docchat-multiagent-rag)
 
-A multi-agent RAG system designed to improve answer reliability over long documents through hybrid retrieval, LangGraph orchestration and verification/self-correction.
+### 3. Cash on Delivery Risk Predictor
 
-`Python` `LangGraph` `RAG` `BM25` `Vector Search`
+A machine learning pipeline that predicts the risk of cash-on-delivery order failure before shipment, with model benchmarking and explainability.
 
----
+**Tech:** Python · Machine Learning · XGBoost · AdaBoost · SHAP
 
-### 📦 [Cash-on-Delivery Risk Predictor](https://github.com/imenei/cash-on-delivery-risk-predictor)
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github)](https://github.com/imenei/cash-on-delivery-risk-predictor)
 
-**Machine Learning for E-commerce Risk Prediction**
+### 4. Style Finder — AI Fashion Search
 
-A predictive ML pipeline that identifies potential Cash-on-Delivery order failures before shipment, with model benchmarking and SHAP-based explainability.
+A multimodal AI application that analyzes fashion images, finds visually similar styles and generates personalized recommendations.
 
-`Python` `XGBoost` `AdaBoost` `SHAP` `Machine Learning`
+**Tech:** Python · Computer Vision · ResNet50 · Llama Vision · Gradio
 
----
-
-### 👗 [Style Finder](https://github.com/imenei/style-finder)
-
-**AI-Powered Fashion Image Search & Recommendation**
-
-A multimodal RAG application that analyzes fashion images using visual embeddings, similarity matching and Llama Vision to generate style recommendations.
-
-`Python` `Computer Vision` `ResNet50` `RAG` `Gradio`
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/imenei?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github)](https://github.com/imenei/style-finder)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 🎨 Frontend & Mobile
+### Programming & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flutter" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,django,nodejs" />
 </p>
 
-### ⚙️ Backend & Databases
+### AI, Machine Learning & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,django,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda,mysql,postgres,mongodb" />
 </p>
 
-### 🧠 AI & Data Science
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,jupyter,anaconda,numpy,pandas,kaggle" />
-</p>
-
-### 🔧 Tools & Others
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=imenei&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imenei&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=imenei&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=imenei&bg_color=0d1117&color=a78bfa&line=06b6d4&point=ffffff&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 📫 Let's Connect
 
-- Advanced AI Engineering & LLM Applications
-- Multi-Agent Systems and AI Workflows
-- Advanced Data Analytics
-- Scalable AI Architectures
-
----
-
-## 🤝 Let's Connect
+I'm open to opportunities, collaborations and interesting AI projects.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/imene-belmadoui-81b117248/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:imene.belmadoui@outlook.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-</a>
-<a href="https://github.com/imenei">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imene-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imene-belmadoui-81b117248/)
+[![Email](https://img.shields.io/badge/Email-imene.belmadoui%40outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imene.belmadoui@outlook.com)
 
-<br/><br/>
+**Thanks for visiting my profile! 💜**
 
-### ✨ Build. Innovate. Learn. Repeat.
-
-*Always exploring new possibilities at the intersection of AI and technology.*
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/imenei/imenei/output/dist/snake.svg" alt="Contribution Snake Animation" width="100%" />
 </div>
