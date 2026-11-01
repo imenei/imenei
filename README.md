@@ -1,15 +1,19 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:3B0764,70:7C3AED,100:06B6D4&height=200&section=header&text=IMENE&fontSize=75&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descAlignY=60&descSize=18" width="100%" />
+<br/>
+
+# <span style="color:#A855F7">Hey, I'm Imene</span> 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;LLMs+%7C+RAG+%7C+AI+Agents;Machine+Learning+%7C+Deep+Learning;Building+Intelligent+AI+Systems;Full-Stack+Developer" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Engineer;Building+Intelligent+AI+Systems;LLMs+%7C+RAG+%7C+AI+Agents;Machine+Learning+%7C+Deep+Learning;Full-Stack+Developer;Turning+Ideas+Into+AI+Products" alt="Typing SVG" />
+**AI & Data Science Engineer · Full-Stack Developer**
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/imenei">
-<img src="https://img.shields.io/badge/GitHub-imenei-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/imene-belmadoui-81b117248/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,9 +24,12 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=imenei&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=imenei&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" />
 
 </div>
+
+---
+
 
 ---
 
