@@ -216,11 +216,23 @@ Analyzes fashion images using ResNet50 embeddings, visual similarity matching an
 
 ---
 
-<h2 align="center">╭・ LET'S CONNECT ・╮</h2>
+ <h2 align="center">╭・ LET'S CONNECT ・╮</h2>
 
 <div align="center">
 
-**Have an interesting AI project or collaboration in mind? Let's connect!**
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imene-belmadoui-81b117248/)
+[![Email](https://img.shields.io/badge/EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imene.belmadoui@outlook.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imenei)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Always_curious.-Always_building.-Always_learning.-8B5CF6?style=for-the-badge&labelColor=1a1028" />
+
+<br/><br/>
+
+*Let's build something meaningful with technology.* 💜
+
+</div>
 
 <br/>
 
@@ -230,6 +242,5 @@ Analyzes fashion images using ResNet50 embeddings, visual similarity matching an
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:090014&height=120&section=footer" width="100%" />
 
 </div>
