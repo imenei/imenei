@@ -226,7 +226,7 @@ Analyzes fashion images using ResNet50 embeddings, visual similarity matching an
 
 <br/>
 
-<img src="https://img.shields.io/badge/Always_curious.-Always_building.-Always_learning.-8B5CF6?style=for-the-badge&labelColor=1a1028" />
+<img src="https://img.shields.io/badge/Always%20curious%20%E2%80%A2%20Always%20building%20%E2%80%A2%20Always%20learning-8B5CF6?style=for-the-badge&labelColor=1a1028" alt="Always curious. Always building. Always learning." />
 
 <br/><br/>
 
